@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### I am just starting to learn, to program from October 2022.
+
 <!--
 **Donertv/Donertv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
